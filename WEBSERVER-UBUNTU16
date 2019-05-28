@@ -1,0 +1,8 @@
+WEBSERVER (APACHE2)
+Sebelum menginstall packages dilinux server, terlebih dahulu masuk sebagai root akses
+webserver ubuntu 16.04
+===========================================
+#apt update && upgrade -y
+#apt install apache2
+=======================================
+tunggu sampe proses selesai
